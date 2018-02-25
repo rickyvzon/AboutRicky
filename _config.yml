@@ -2,7 +2,7 @@
 
   .outer {
     /* The image used */
-    background-image: url("https://i.pinimg.com/originals/b5/2d/15/b52d15ba813de779fd44137d9920b977.jpg");
+    background-image: https://i.pinimg.com/originals/5d/d8/ba/5dd8bac90f2d0aa5f9f8712c4ea2167e.jpg;
     /* Full height */
     height: 100%; 
     /* Center and scale the image nicely */
